@@ -31,7 +31,7 @@ jobs:
       fail-fast: false
       matrix:
         target:
-          - "@arhansid786|UC1IW16v1OZaVccL5lmc7Qgw"
+          - "@CalmSeasonsGuitar|UCOwqCR2WrnS9AeRcPkk9sYg"
 
     steps:
       - name: Checkout Repository
